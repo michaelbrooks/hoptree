@@ -8,7 +8,7 @@ Where to use it
 
 Hoptree.js is appropriate for use on highly interactive websites with dynamic content that is hierarchical in nature. Examples would be web-based tree visualization tools and code repositories or other online file system browsers.
 
-In general, the hoptree widget should be used when your users need to navigate through a large hierarchy where your page will provide a primary view of the hierarchical content. The hoptree should be positioned so as to offer another means of navigating through the hierarchy, just like a breadcrumb, an address bar, or a navigation menu.
+In general, the hoptree widget should be used when your users need to navigate through a large hierarchy where your page will provide a primary view of the hierarchical /content. The hoptree should be positioned so as to offer another means of navigating through the hierarchy, just like a breadcrumb, an address bar, or a navigation menu.
 
 How does it work
 ----------------
@@ -61,7 +61,7 @@ We called the setPath method on the hoptree, providing a new slash-delimited pat
 Examples
 --------
 
-You can see a hoptree in action in the [Gender Browser](http://www.eigenfactor.org/gender), an information visualization about gender in scholarly authorship from Eigenfactor.org.
+You can see a hoptree in action in the [Gender Browser](http://eigenfactor.org/projects/gender/), an information visualization about gender in scholarly authorship from Eigenfactor.org.
 
 Known limitations
 -----------------
